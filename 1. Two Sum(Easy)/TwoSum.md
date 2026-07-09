@@ -1,5 +1,4 @@
 ### Complexity Analysis
-
 * **Time Complexity:** `O(n²)`
   The solution uses two nested loops to check every possible pair.
 
