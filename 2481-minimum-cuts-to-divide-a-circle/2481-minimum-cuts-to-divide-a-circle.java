@@ -2,7 +2,6 @@ class Solution {
     public int numberOfCuts(int n) {
         int res = 0;
         if ( n == 1) return res;
-        if ( n == 3) return n;
         if ( n % 2 == 0){
             res = n / 2;
         }
