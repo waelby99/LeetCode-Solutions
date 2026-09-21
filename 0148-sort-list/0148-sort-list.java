@@ -9,7 +9,7 @@
  * }
  */
 class Solution {
-    //very space and time complexity needs to be re-done 
+    //very bad space and time complexity needs to be re-done 
     public ListNode sortList(ListNode head) {
         ArrayList<Integer> al = new ArrayList<>();
         while( head != null ){
