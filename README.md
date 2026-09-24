@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/waelby99/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/waelby99/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -86,9 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/waelby99/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/waelby99/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/waelby99/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/waelby99/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/waelby99/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
