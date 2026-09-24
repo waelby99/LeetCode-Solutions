@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/waelby99/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/waelby99/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/waelby99/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/waelby99/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/waelby99/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/waelby99/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/waelby99/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/waelby99/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
