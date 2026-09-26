@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/waelby99/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/waelby99/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/waelby99/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/waelby99/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/waelby99/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/waelby99/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/waelby99/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/waelby99/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/waelby99/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/waelby99/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/waelby99/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
