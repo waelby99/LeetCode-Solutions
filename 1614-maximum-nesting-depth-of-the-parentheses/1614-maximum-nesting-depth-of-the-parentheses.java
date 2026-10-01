@@ -9,7 +9,7 @@ class Solution {
                 stack.push(c);
                 maxLen++ ;
             }
-            if ( c == ')' && !stack.isEmpty() ){
+            else if ( c == ')' && !stack.isEmpty() ){
                 maxLen--;
             }
             max = Math.max(max, maxLen);
