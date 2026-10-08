@@ -19,6 +19,7 @@ class Solution {
             }
         }
 
+
         double f=0;
         if ((nums.length)%2!=0){
             f = nums[nums.length/2];
