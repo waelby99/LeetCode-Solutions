@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/waelby99/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/waelby99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/waelby99/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/waelby99/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/waelby99/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/waelby99/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/waelby99/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/waelby99/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/waelby99/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/waelby99/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/waelby99/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/waelby99/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
