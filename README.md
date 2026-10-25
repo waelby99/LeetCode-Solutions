@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/waelby99/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/waelby99/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/waelby99/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/waelby99/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/waelby99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/waelby99/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/waelby99/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/waelby99/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/waelby99/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
