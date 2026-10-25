@@ -11,7 +11,7 @@ class Solution {
             else if (nums[left] + nums[right] < k){
                 left++;
             }
-            else if (nums[left] + nums[right] > k){
+            else {
                 right--;
             } 
          }
