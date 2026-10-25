@@ -1,33 +1,40 @@
 class Solution {
     public int compress(char[] chars) {
-        int len = chars.length ;
-        if ( len == 1 ) return 1;
-        StringBuilder sb = new StringBuilder();
-        int left = 0 , right = 1 ;
+        int len = chars.length;
+
+        int left = 0, right = 1;
         int count = 1;
-        while (right < len ){
-            if ( chars[left] == chars[right] ){
+        int i = 0;
+
+        while (right <= len) {
+
+            if (right < len && chars[left] == chars[right]) {
                 count++;
-            }
-            else {
-                sb.append(chars[left]);
+            } else {
+                chars[i] = chars[left];
+                i++;
+
                 if (count > 1) {
-                    sb.append(count);
+                    int divisor = 1;
+
+                    while (count / divisor >= 10) {
+                        divisor *= 10;
+                    }
+
+                    while (divisor > 0) {
+                        chars[i] = (char) ('0' + (count / divisor) % 10);
+                        i++;
+                        divisor /= 10;
+                    }
                 }
+
                 left = right;
                 count = 1;
             }
+
             right++;
         }
-        sb.append(chars[left]);
-        if (count > 1) {
-            sb.append(count);
-        }        
-        int res = sb.length();
-        for (int i = 0 ; i < res ; i++ ){
-            chars[i] = sb.charAt(i);
-        }
 
-        return res;
+        return i;
     }
 }
