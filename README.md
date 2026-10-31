@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/waelby99/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/waelby99/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/waelby99/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2574-left-and-right-sum-differences](https://github.com/waelby99/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/waelby99/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/waelby99/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/waelby99/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/waelby99/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
