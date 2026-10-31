@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/waelby99/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/waelby99/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/waelby99/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/waelby99/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/waelby99/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/waelby99/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/waelby99/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/waelby99/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/waelby99/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/waelby99/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/waelby99/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
