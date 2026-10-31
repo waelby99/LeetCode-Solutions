@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/waelby99/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/waelby99/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/waelby99/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/waelby99/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [2409-count-days-spent-together](https://github.com/waelby99/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
