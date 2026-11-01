@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/waelby99/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/waelby99/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/waelby99/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/waelby99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/waelby99/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/waelby99/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/waelby99/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/waelby99/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/waelby99/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/waelby99/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/waelby99/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/waelby99/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/waelby99/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
