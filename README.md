@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/waelby99/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/waelby99/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/waelby99/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3925-concatenate-array-with-reverse](https://github.com/waelby99/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/waelby99/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/waelby99/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/waelby99/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |
