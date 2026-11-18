@@ -253,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/waelby99/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/waelby99/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
