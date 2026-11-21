@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/waelby99/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/waelby99/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [2409-count-days-spent-together](https://github.com/waelby99/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3110-score-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/waelby99/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
