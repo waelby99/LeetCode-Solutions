@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/waelby99/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/waelby99/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/waelby99/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/waelby99/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2409-count-days-spent-together](https://github.com/waelby99/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3110-score-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/waelby99/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/waelby99/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/waelby99/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/waelby99/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/waelby99/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/waelby99/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/waelby99/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/waelby99/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/waelby99/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/waelby99/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/waelby99/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/waelby99/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/waelby99/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
