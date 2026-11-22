@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/waelby99/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/waelby99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/waelby99/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1207-unique-number-of-occurrences](https://github.com/waelby99/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/waelby99/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/waelby99/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/waelby99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1207-unique-number-of-occurrences](https://github.com/waelby99/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/waelby99/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/waelby99/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/waelby99/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
