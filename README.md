@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/waelby99/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/waelby99/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/waelby99/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/waelby99/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/waelby99/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1207-unique-number-of-occurrences](https://github.com/waelby99/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/waelby99/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/waelby99/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/waelby99/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/waelby99/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
