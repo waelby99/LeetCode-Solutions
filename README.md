@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/waelby99/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3110-score-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/waelby99/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/waelby99/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/waelby99/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/waelby99/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/waelby99/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/waelby99/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/waelby99/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/waelby99/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
