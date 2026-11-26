@@ -10,6 +10,6 @@ class Solution {
             f--;
             i++;
         }
-        return !(i%2==0);
+        return i%2!=0;
     }
 }
